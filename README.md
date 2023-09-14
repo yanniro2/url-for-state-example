@@ -20,6 +20,11 @@ This project allows users to instantly share and recreate the same UI using vari
 - Sharing the URL with a new device ensures consistent UI rendering.
 - Server-side components can be leveraged to enhance the user experience.
 
+
+## Preview
+
+![Alt Text](./Images/desktop.png)
+
 ## Project Samples
 
 Here are some samples of how this project can be used:
